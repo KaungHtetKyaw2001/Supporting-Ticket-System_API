@@ -1,0 +1,3 @@
+<?php echo e($slot); ?>: <?php echo e($url); ?>
+
+<?php /**PATH D:\Ticket_Support_System_API Version (2) (1)\Ticket_Support_System_API\vendor\laravel\framework\src\Illuminate\Mail/resources/views/text/button.blade.php ENDPATH**/ ?>
